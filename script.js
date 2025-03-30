@@ -9,11 +9,31 @@
 // console.log(product);
 
 // question 2
-const profile = {
-    username : "@Rishab_1024",
-    followers :4321,
-    following :1234,
-    posts : 123,
-    isfollow : true,
-}
-console.log(profile)
+// const profile = {
+//     username : "@Rishab_1024",
+//     followers :4321,
+//     following :1234,
+//     posts : 123,
+//     isfollow : true,
+// }
+// console.log(profile)
+
+// operators and conditional statements
+
+// arithmetic operators
+
+// +,-,*,/,modulus,expontential,increment and decrement
+// these are four major arithmetic operators
+
+let a = 5;
+let b = 3;
+
+console.log("a + b = ", a + b)
+console.log("a - b = ", a - b)
+console.log("a * b = ", a * b)
+console.log("a / b = ", a / b)
+console.log("a % b = ", a % b)
+console.log("a ** b = ", a ** b)
+console.log("a ++ = ", a++ )
+console.log("a++ = ", a++)
+console.log("a-- = ", a-- )
