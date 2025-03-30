@@ -76,11 +76,30 @@
 // comparision operators
 // ==,===,!=,!==,>,>=,<,<=
 
-a = 5
-b = 4
+// a = 5
+// b = 4
 
 
-console.log(a==b) //false only checks the value
-console.log(a===b) //also checks the data types
-console.log(a!=b) //true not equal to
-console.log(a!==b) //also checks the data types
+// console.log(a==b) //false only checks the value
+// console.log(a===b) //also checks the data types
+// console.log(a!=b) //true not equal to
+// console.log(a!==b) //also checks the data types
+
+// logical operators
+
+// logical and && 
+// logical or ||
+// logical not !
+
+
+
+
+
+
+
+
+
+
+// conditional statements
+
+// if statement 
