@@ -51,24 +51,36 @@
 
 // =,+=,-=,*=,/=,%=,**=
 
-a = 5;
-b = 3;
-c = 6;
-d = 1;
-e = 9;
-f = 2;
+// a = 5;
+// b = 3;
+// c = 6;
+// d = 1;
+// e = 9;
+// f = 2;
 
 
-a += 4; //this means a = a + 4
-b -= 2; // b = b - 2
-c *= 2; // c = c * 2
-d /= 2; // d = d / 2
-e %= 2; // e = e % 3
-f **= 2 // f = f ** 2
+// a += 4; //this means a = a + 4
+// b -= 2; // b = b - 2
+// c *= 2; // c = c * 2
+// d /= 2; // d = d / 2
+// e %= 2; // e = e % 3
+// f **= 2 // f = f ** 2
 
-console.log(a) //9
-console.log(b) //1
-console.log(c) //12
-console.log(d) //0.5
-console.log(e) //1
-console.log(f) //4
+// console.log(a) //9
+// console.log(b) //1
+// console.log(c) //12
+// console.log(d) //0.5
+// console.log(e) //1
+// console.log(f) //4
+
+// comparision operators
+// ==,===,!=,!==,>,>=,<,<=
+
+a = 5
+b = 4
+
+
+console.log(a==b) //false only checks the value
+console.log(a===b) //also checks the data types
+console.log(a!=b) //true not equal to
+console.log(a!==b) //also checks the data types
