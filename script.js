@@ -91,15 +91,22 @@
 // logical or ||
 // logical not !
 
+// a = 5
+// b = 4
 
-
-
-
-
-
-
-
+// console.log(a < b && a == 5) //false because both conditions are not true this is logical and operator
+// console.log(a < b || a == 5) //true because aleast one condition is ture this is logical or operator
+// console.log(!(a < b) , !(a == 5)) //con1 is false and con2 is true but because of not operator results are the opposite of the original results
 
 // conditional statements
 
 // if statement 
+
+let marks = 2;
+if(marks >= 33 ){
+    student_is = "pass";
+}
+if(marks < 33 ){
+    student_is = "fail";
+}
+console.log(student_is);
