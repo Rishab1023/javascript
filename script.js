@@ -136,12 +136,25 @@
 
 // else if statement it is used to check multiple conditions to give the final answer
 
-let age = 18;
+// let age = 18;
 
-if (age < 18) {
-    console.log( "person is minor");
-} else if (age > 60){
-    console.log( "person is senior citizen");
-} else {
-    console.log( "person is adult");
-}
+// if (age < 18) {
+//     console.log( "person is minor");
+// } else if (age > 60){
+//     console.log( "person is senior citizen");
+// } else {
+//     console.log( "person is adult");
+// }
+
+// ternary operators  or compact or simpler form of if else condition
+
+// mdn docs this website can be helpful for theory part
+
+// let number = prompt("enter a number");
+
+// if (number % 3 === 0) {
+//     console.log(number, "is a multiple of 3")
+// } else {
+//     console.log(number, "is not a multiple of 3")
+// }
+
