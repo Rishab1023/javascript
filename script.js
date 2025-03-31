@@ -150,6 +150,8 @@
 
 // mdn docs this website can be helpful for theory part
 
+
+// practice question 1
 // let number = prompt("enter a number");
 
 // if (number % 3 === 0) {
@@ -158,6 +160,7 @@
 //     console.log(number, "is not a multiple of 3")
 // }
 
+// practice question 2
 let score = 61;
 if(score >= 80 && score <=100){
     console.log("you got A grade")
