@@ -102,11 +102,23 @@
 
 // if statement 
 
-let marks = 2;
-if(marks >= 33 ){
-    student_is = "pass";
+// let marks = 45;
+// if(marks >= 33 ){
+//     student_is = "pass";
+// }
+// if(marks < 33 ){
+//     student_is = "fail";
+// }
+// console.log(student_is);
+
+// if else statement 
+
+let marks = 34;
+
+if (marks < 33 ) {
+    studentis = "fail";
+} else{
+    studentis = "pass";
 }
-if(marks < 33 ){
-    student_is = "fail";
-}
-console.log(student_is);
+
+console.log("student is", studentis)
