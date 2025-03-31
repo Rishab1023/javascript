@@ -158,7 +158,7 @@
 //     console.log(number, "is not a multiple of 3")
 // }
 
-let score = 80;
+let score = 61;
 if(score >= 80 && score <=100){
     console.log("you got A grade")
 } else if(score >= 70 && score <=89){
