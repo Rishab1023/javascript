@@ -158,3 +158,15 @@
 //     console.log(number, "is not a multiple of 3")
 // }
 
+let score = 80;
+if(score >= 80 && score <=100){
+    console.log("you got A grade")
+} else if(score >= 70 && score <=89){
+    console.log("you got B grade")
+} else if(score >= 60 && score <=69){
+    console.log("you got C grade")
+} else if(score >= 50 && score <=59){
+    console.log("you got D grade")
+} else {
+    console.log("you got F grade")
+}
