@@ -113,12 +113,35 @@
 
 // if else statement 
 
-let marks = 34;
+// let marks = 34;
 
-if (marks < 33 ) {
-    studentis = "fail";
-} else{
-    studentis = "pass";
+// if (marks < 33 ) {
+//     studentis = "fail";
+// } else{
+//     studentis = "pass";
+// }
+
+// console.log("student is", studentis)
+
+
+// check if the number is odd or even 
+
+// let number =25;
+// if (number % 2 === 0) {
+//     console.log(number, "is even");
+// } else{
+//     console.log(number, "is odd");
+// }
+
+
+// else if statement it is used to check multiple conditions to give the final answer
+
+let age = 18;
+
+if (age < 18) {
+    console.log( "person is minor");
+} else if (age > 60){
+    console.log( "person is senior citizen");
+} else {
+    console.log( "person is adult");
 }
-
-console.log("student is", studentis)
