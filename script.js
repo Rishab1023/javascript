@@ -200,9 +200,18 @@
 
 //while loops
 
-let i = 5;
+// let i = 5;
 
-while (i <= 5) {
+// while (i <= 5) {
+//     console.log("rishab");
+//     i++
+// }
+
+// do while loop
+
+let i = 1;
+
+do {
     console.log("rishab");
     i++
-}
+}while (i <= 10);
