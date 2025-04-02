@@ -161,15 +161,46 @@
 // }
 
 // practice question 2
-let score = 61;
-if(score >= 80 && score <=100){
-    console.log("you got A grade")
-} else if(score >= 70 && score <=89){
-    console.log("you got B grade")
-} else if(score >= 60 && score <=69){
-    console.log("you got C grade")
-} else if(score >= 50 && score <=59){
-    console.log("you got D grade")
-} else {
-    console.log("you got F grade")
+// let score = 61;
+// if(score >= 80 && score <=100){
+//     console.log("you got A grade")
+// } else if(score >= 70 && score <=89){
+//     console.log("you got B grade")
+// } else if(score >= 60 && score <=69){
+//     console.log("you got C grade")
+// } else if(score >= 50 && score <=59){
+//     console.log("you got D grade")
+// } else {
+//     console.log("you got F grade")
+// }
+
+// loops
+
+// for loop
+
+// for(let con=1;con<=10;con++){
+//     console.log("rishab")
+// }
+
+// for loop statement to find the sum of n numbers
+
+// let sum = 0;
+
+// for(let i=1;i<=5;i++){
+//     sum = sum + i 
+// }
+
+// console.log("sum is", sum)
+
+// for loop statement to print no 1 to 100
+
+// for(let i = 1; i <= 100; i++){
+//     console.log("i is", i)
+// }
+
+//while loops
+
+let i=1
+while(i<=10){
+    console.log(i)
 }
